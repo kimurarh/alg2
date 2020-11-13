@@ -9,7 +9,7 @@ void cont_down(int n) {
     }
 }
 
-void main() {
+int main() {
     int n;
 
     printf("Digite um numero inteiro positivo: \n");

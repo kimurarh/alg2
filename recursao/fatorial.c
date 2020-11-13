@@ -7,7 +7,7 @@ int fatorial(int n) {
         return n * fatorial(n-1);
 }
 
-void main() {
+int main() {
     int n, fat;
 
     printf("Digite um numero inteiro positivo: \n");

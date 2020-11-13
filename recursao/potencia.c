@@ -8,7 +8,7 @@ float pot(float x, int n) {
 }
 
 
-void main() {
+int main() {
     float x;
     int n;
 

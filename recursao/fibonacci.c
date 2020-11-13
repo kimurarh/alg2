@@ -7,7 +7,7 @@ int fibo(int n) {
         return fibo(n-1) + fibo(n-2);
 }
 
-void main() {
+int main() {
     int n;
 
     printf("Digite um numero inteiro positivo\n");
